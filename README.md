@@ -1,21 +1,34 @@
-## Hi there 👋
+# Tinkerer 
+> I love to start new projects now and then
 
-<!--
-**explorenz/explorenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Activity</h2>
+## Current Projects
+
+| # | Project | Stack | Link |
+|---|---------|-------|------|
+| 01 | **Auto-watering device** — ESP32, pumps, relays. Firmware and all.  | IoT · ESP32 · ESPHome · Home Assistant | — |
+| 02 | **Odeasi** — Split expenses and group planning with your friends. | Flutter · Supabase · LLM | [odeasi.vercel.app](https://odeasi.vercel.app/) |
+| 03 | **Solace** — Mindful exercises from your therapist. | Flutter · Firebase | [solace-blush.vercel.app](https://solace-blush.vercel.app/) |
+| 04 | **StriveArc** — Coming soon | Coming soon | — |
+
+---
+
+## Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=home-assistant&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+---
+
+## GitHub Activity
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=explorenz&theme=aura_dark" />
 </p>
