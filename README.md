@@ -1,5 +1,5 @@
 # Tinkerer 
-> I love to start new projects now and then
+> I love to start new projects every now and then
 
 ---
 
