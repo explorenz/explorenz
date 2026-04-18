@@ -11,7 +11,7 @@
 | 01 | **Auto-watering device** — ESP32, pumps, relays. Firmware and all.  | IoT · ESP32 · ESPHome · Home Assistant | — |
 | 02 | **Odeasi** — Split expenses and group planning with your friends. | Flutter · Supabase · LLM | [odeasi.vercel.app](https://odeasi.vercel.app/) |
 | 03 | **Solace** — Mindful exercises from your therapist. | Flutter · Firebase | [solace-blush.vercel.app](https://solace-blush.vercel.app/) |
-| 04 | **StriveArc** — Coming soon | Coming soon | — |
+| 04 | **StriveArc** — TypeScript · Supabase · Railway  | Coming soon | — |
 
 ---
 
@@ -30,9 +30,9 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=explorenz&theme=aura_dark" />
+  <img src="http://github-stats-card-nine.vercel.app/api/cards/profile-details?username=explorenz&theme=aura_dark" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=explorenz&theme=aura_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=explorenz&theme=aura_dark" />
+  <img src="http://github-stats-card-nine.vercel.app/api/cards/repos-per-language?username=explorenz&theme=aura_dark" />
+  <img src="http://github-stats-card-nine.vercel.app/api/cards/most-commit-language?username=explorenz&theme=aura_dark" />
 </p>
